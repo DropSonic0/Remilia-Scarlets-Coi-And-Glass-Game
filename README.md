@@ -1,4 +1,4 @@
-# Remilia-Scarlets-Coi-And-Glass-Game - Android-Port
+# Remilia-Scarlets-Coin-And-Glass-Game - Android-Port
 DLC - Save Me Sakuya-San
 original game of Sigyaad Team , Fan Games SAGA Touhou Project by Team Shanghai Alice
 
